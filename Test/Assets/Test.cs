@@ -10,6 +10,7 @@ public class Test : MonoBehaviour
 	{
 		public int Id;
 		public Vector3 Position;
+		public string Name;
 		public int[] Nodes;
 
 		public SpawnPoint (int id, Vector3 position)
