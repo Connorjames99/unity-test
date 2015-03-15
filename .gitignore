@@ -1,0 +1,26 @@
+#### Unity Ignores
+Library
+ProjectSettings/EditorBuildSettings.asset
+
+#### Custom Ignores
+*.csproj
+*.unityproj
+*.sln
+*.DotSettings
+*.userprefs
+*.graphlog
+Temp
+Temp.meta
+Builds
+build.txt
+build.txt.meta
+
+#### General Solution Ignores
+*.suo
+*.log
+*.manifest
+*.user
+*.userprefs
+*.pidb
+*.DS_Store
+obj
